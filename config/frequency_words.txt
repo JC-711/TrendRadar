@@ -1,67 +1,31 @@
-
 DeepSeek
-梁文锋
 
 华为
 鸿蒙
-HarmonyOS
 !价格
 
-比亚迪
-王传福
-
-大疆
-DJI
-
 宇树
-Unitree Robotics
-王兴兴
 
 智元
 灵犀
-稚晖君
-彭志辉
-
-SuccessFactors
-BTP
-Joule
 
 京东
-刘强东
 
 字节
-bytedance
-张一鸣
 
-Tesla
 特斯拉
-Elon Musk
 马斯克
-Grok
-
-微软
-Microsoft
 
 英伟达
-NVIDIA
-黄仁勋
 
 AMD
 
 谷歌
-google
-gemini
-deepmind
+深度
 
-chatgpt
-openai
-sora
-
-claude
-Anthropic
+ChatGPT
 
 苹果
-Apple
 ios
 !水果
 !价格
@@ -70,38 +34,21 @@ ai
 !gai
 人工智能
 
-SAP
-BTP
-S/4 Hana
-
 自动驾驶
 
 机器人
 
-Australia
-澳大利亚
+消费
 
-China
-
-美国
-日本
-韩国
+猪肉
 
 芯片
 光刻机
 
 科技
 
-核能
-
-水电站
-雅鲁藏布江
+核聚变
 
 新质生产力
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+商业航天
